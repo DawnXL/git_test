@@ -18,3 +18,6 @@ The basic Git syntax is program | action | destination.
 ## Atomic Commits
 
 An atomic commit is a commit that includes changes related to *only one feature or task* of your program. There are two main reasons for doing this: first, if something you change turns out to cause some problems, it is easy to revert the specific change without losing other changes; and second, it enables you to write better commit messages. You’ll learn more about what a good commit message looks like in a future lesson!
+
+## What is Vim?
+A command-line text editor that runs directly inside your terminal window. It has no mouse support by default—everything is done using keyboard shortcuts.
